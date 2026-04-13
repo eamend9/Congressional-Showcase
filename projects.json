@@ -598,5 +598,20 @@
   "district": "MI-06",
   "state": "MI",
   "tags": ["education", "environment", "ai"]
+},
+{
+  "slug": "WA-06",
+  "name": "Garner Hall and Andrew Zhang",
+  "appName": "JourneyKeep",
+  "description": "JourneyKeep turns real-world habits into daily sidequests that help teens reduce doomscrolling and build intentional screen-time routines.",
+  "thumbnail": "sites/WA-06/thumbnail.jpg",
+  "location": {
+    "lat": 47.2529,
+    "lng": -122.4443,
+    "label": "Tacoma, WA"
+  },
+  "district": "WA-06",
+  "state": "WA",
+  "tags": ["health", "productivity", "habits", "wellness"]
 }
 ]
