@@ -663,7 +663,7 @@
   "slug": "OH-08",
   "name": "Emma Amend",
   "appName": "Ripple Effect",
-  "description": "A gamified social impact app that uses challenges, streaks, and rewards to incentivize and track real-world acts of kindness.",
+  "description": "Ripple Effect is a gamified social impact app that uses challenges, streaks, and rewards to incentivize and track real-world acts of kindness.",
   "thumbnail": "sites/OH-08/thumbnail.png",
   "location": {
     "lat": 39.444370,
@@ -671,7 +671,7 @@
     "label": "Liberty Township, OH"
   },
   "district": "OH-08",
-  "state": "OH"
-  "tags": ["gamification", "social impact"]
+  "state": "OH",
+  "tags": ["gamification", "social impact", "kindness"]
 }
 ]
